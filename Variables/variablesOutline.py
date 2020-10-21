@@ -85,4 +85,4 @@ print(listvar)
 #8)
 #Make a variable of any type, with one of the common SYNTAX errors
 
-b = 4
+ = 4
