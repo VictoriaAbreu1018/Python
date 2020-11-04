@@ -22,3 +22,5 @@ name = input(question)
 
 age = input("what is your age?")
 
+age = 16 
+
