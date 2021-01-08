@@ -52,4 +52,4 @@ print(u)
 
 #7) Make a comparison with any operator, with one of the common SYNTAX errors.
 
-
+ >= 4
