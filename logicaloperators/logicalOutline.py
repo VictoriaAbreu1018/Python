@@ -4,6 +4,7 @@ Fill in this outline as the instructor goes through the lesson.
 '''
 #EX) Make two boolean variables. Put them on either side of the and operator.
 #Store this expression in a variable named a. Print the variable.
+from test.support import _MemoryWatchdog
 one = True
 two = False
 a = one and two 
@@ -32,4 +33,6 @@ print(c)
 
 #4) Make a logical expression with one of the common SYNTAX errors.
 
-
+dog = not 
+d = dog
+print(d)
